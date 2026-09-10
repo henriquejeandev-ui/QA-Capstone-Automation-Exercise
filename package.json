@@ -1,0 +1,26 @@
+{
+  "name": "qa-capstone-automation-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquejeandev-ui/QA-Capstone-Automation-Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/henriquejeandev-ui/QA-Capstone-Automation-Exercise/issues"
+  },
+  "homepage": "https://github.com/henriquejeandev-ui/QA-Capstone-Automation-Exercise#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^22.20.2"
+  }
+}
