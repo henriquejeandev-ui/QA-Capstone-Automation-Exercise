@@ -21,7 +21,9 @@
   "homepage": "https://github.com/henriquejeandev-ui/QA-Capstone-Automation-Exercise#readme",
   "devDependencies": {
     "@playwright/test": "^1.63.0",
+    "@types/better-sqlite3": "^9.6.0",
     "@types/node": "^22.20.2",
+    "better-sqlite3": "^13.0.3",
     "dotenv": "^17.4.2"
   }
 }
